@@ -1,4 +1,4 @@
-Links: [[202007072135 DevOps Hub | DevOps Hub]]
+Links: [[202007072135 DevOps Hub]]
 # DevOps Principles
 #devops 
 
