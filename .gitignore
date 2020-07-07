@@ -1,0 +1,6 @@
+# Git
+.git/
+
+# Obsidian related things
+.obsidian/
+.cache/
