@@ -1,6 +1,8 @@
 # Zettelkasten Index
 Basic index file for keeping zettelkasten linked inside.
 
+- All tags available in [[001 Tags List]], sorted by category
+
 ## Python
 ### Development
 ### Testing

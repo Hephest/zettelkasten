@@ -11,7 +11,7 @@ Personal zettelkasten. Powered by [Markdown](https://www.markdownguide.org/), [O
 - Clone repo to your local machine (or download manually):
 
 	```
-	git clone git@github.com:Hephest/zettelkasten.git
+	git clone git@github.com:Hephest/zettelkasten.git	
 	```
 
 - Open Obsidian. Choose `Open folder as vault` > `Software Development`
