@@ -9,5 +9,8 @@ Links: [[000 Index]]
 - #testing 
 - #devops 
 
-## By library
+## By library:
 - #nose 
+
+## By tool:
+- #git 
