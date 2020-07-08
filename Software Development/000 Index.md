@@ -5,9 +5,11 @@ Basic index file for keeping zettelkasten linked inside.
 - All `TODO` items available in [[002 ToDo List]] 
 
 ## Python
-### Development
 ### Testing
 - [[202007072105 Nose]]
 
+## Tools
+- [[202007080137 Git]]
+
 ## Other
-- [[202007072135 DevOps Hub]]
+- [[202007072135 DevOps]]

@@ -1,4 +1,4 @@
-Links: [[202007072135 DevOps Hub]]
+Links: [[202007072135 DevOps]]
 # DevOps Workflow
 #devops 
 
